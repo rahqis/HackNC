@@ -13,3 +13,8 @@
 ## We learned how a realtime data base works, and how to add and retireve data from said data base. We were also able to learn how block coding works and how to implement it in our app
 
 ## We plan to finish our app with all the components we visioned to be present. We also plan to fine tune it and make it more appleaning to the users.
+
+
+## Link to Thunkable Project 
+
+https://x.thunkable.com/copy/499827e56018c481915ebc4ce677d595
